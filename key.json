@@ -3,10 +3,10 @@
     "ADMİN": {
       "expiry": "2045-12-31",
       "hwid": "230520644002827"
-      "keys": {
+    },
     "ADMİN-1": {
-      "expiry": "2045-12-31",
-      "hwid": "NONE"
+      "expiry": "2026-12-31",
+      "hwid": "BURAYA_YENI_HWID_GELECEK"
     }
   }
 }
